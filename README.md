@@ -13,7 +13,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/tooMike/test_project_1
+git clone https://github.com/tooMike/test_project_1
 ```
 
 ```
