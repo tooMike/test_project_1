@@ -16,7 +16,8 @@ from api.serializers import (
     CartListSerializer,
     CartUpdateSerializer,
     CategorySerializer,
-    ProductSerializer, UserRegistrationSerializer,
+    ProductSerializer,
+    UserRegistrationSerializer,
 )
 from shop.models import Category, Product, ShoppingCart
 
