@@ -7,4 +7,6 @@ def func(n):
     return result[:n]
 
 
-print(func(6))
+if __name__ == '__main__':
+    number = int(input("Введите количество элементов последовательности: "))
+    print(f"Результат: {func(number)}")
