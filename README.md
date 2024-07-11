@@ -17,7 +17,7 @@ git clone https://github.com/tooMike/test_project_1
 ```
 
 ```
-cd task_2
+cd test_project_1/task_2
 ```
 
 Cоздать и активировать виртуальное окружение:
